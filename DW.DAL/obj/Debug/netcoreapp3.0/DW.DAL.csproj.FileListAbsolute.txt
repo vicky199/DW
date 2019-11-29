@@ -1,0 +1,8 @@
+E:\Practice\DW\DW.DAL\bin\Debug\netcoreapp3.0\DW.DAL.deps.json
+E:\Practice\DW\DW.DAL\bin\Debug\netcoreapp3.0\DW.DAL.dll
+E:\Practice\DW\DW.DAL\obj\Debug\netcoreapp3.0\DW.DAL.csprojAssemblyReference.cache
+E:\Practice\DW\DW.DAL\obj\Debug\netcoreapp3.0\DW.DAL.AssemblyInfoInputs.cache
+E:\Practice\DW\DW.DAL\obj\Debug\netcoreapp3.0\DW.DAL.AssemblyInfo.cs
+E:\Practice\DW\DW.DAL\bin\Debug\netcoreapp3.0\DW.DAL.pdb
+E:\Practice\DW\DW.DAL\obj\Debug\netcoreapp3.0\DW.DAL.dll
+E:\Practice\DW\DW.DAL\obj\Debug\netcoreapp3.0\DW.DAL.pdb

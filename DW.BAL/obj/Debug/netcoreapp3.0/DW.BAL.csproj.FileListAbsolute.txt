@@ -1,0 +1,17 @@
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.BAL.deps.json
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.BAL.dll
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.BAL.pdb
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.Common.dll
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.DAL.dll
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.Model.dll
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.Repository.dll
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.Common.pdb
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.Model.pdb
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.Repository.pdb
+E:\Practice\DW\DW.BAL\bin\Debug\netcoreapp3.0\DW.DAL.pdb
+E:\Practice\DW\DW.BAL\obj\Debug\netcoreapp3.0\DW.BAL.csprojAssemblyReference.cache
+E:\Practice\DW\DW.BAL\obj\Debug\netcoreapp3.0\DW.BAL.AssemblyInfoInputs.cache
+E:\Practice\DW\DW.BAL\obj\Debug\netcoreapp3.0\DW.BAL.AssemblyInfo.cs
+E:\Practice\DW\DW.BAL\obj\Debug\netcoreapp3.0\DW.BAL.csproj.CopyComplete
+E:\Practice\DW\DW.BAL\obj\Debug\netcoreapp3.0\DW.BAL.dll
+E:\Practice\DW\DW.BAL\obj\Debug\netcoreapp3.0\DW.BAL.pdb

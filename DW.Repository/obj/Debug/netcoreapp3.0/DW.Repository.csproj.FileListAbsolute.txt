@@ -1,0 +1,15 @@
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Repository.deps.json
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Repository.dll
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Repository.pdb
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Common.dll
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.DAL.dll
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Model.dll
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Common.pdb
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.DAL.pdb
+E:\Practice\DW\DW.Repository\bin\Debug\netcoreapp3.0\DW.Model.pdb
+E:\Practice\DW\DW.Repository\obj\Debug\netcoreapp3.0\DW.Repository.csprojAssemblyReference.cache
+E:\Practice\DW\DW.Repository\obj\Debug\netcoreapp3.0\DW.Repository.AssemblyInfoInputs.cache
+E:\Practice\DW\DW.Repository\obj\Debug\netcoreapp3.0\DW.Repository.AssemblyInfo.cs
+E:\Practice\DW\DW.Repository\obj\Debug\netcoreapp3.0\DW.Repository.csproj.CopyComplete
+E:\Practice\DW\DW.Repository\obj\Debug\netcoreapp3.0\DW.Repository.dll
+E:\Practice\DW\DW.Repository\obj\Debug\netcoreapp3.0\DW.Repository.pdb

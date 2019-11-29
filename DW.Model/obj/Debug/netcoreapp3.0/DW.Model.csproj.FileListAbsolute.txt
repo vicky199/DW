@@ -1,0 +1,8 @@
+E:\Practice\DW\DW.Model\bin\Debug\netcoreapp3.0\DW.Model.deps.json
+E:\Practice\DW\DW.Model\bin\Debug\netcoreapp3.0\DW.Model.dll
+E:\Practice\DW\DW.Model\bin\Debug\netcoreapp3.0\DW.Model.pdb
+E:\Practice\DW\DW.Model\obj\Debug\netcoreapp3.0\DW.Model.csprojAssemblyReference.cache
+E:\Practice\DW\DW.Model\obj\Debug\netcoreapp3.0\DW.Model.AssemblyInfoInputs.cache
+E:\Practice\DW\DW.Model\obj\Debug\netcoreapp3.0\DW.Model.AssemblyInfo.cs
+E:\Practice\DW\DW.Model\obj\Debug\netcoreapp3.0\DW.Model.dll
+E:\Practice\DW\DW.Model\obj\Debug\netcoreapp3.0\DW.Model.pdb
